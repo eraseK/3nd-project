@@ -9,7 +9,7 @@
   - JAVA,SPRING, DB, CSS, HTML 등의 기술적극 활용가능
    (참고사이트 : 와디즈)
   
-- 개발환경  
+## 개발환경  
   ![개발환경](https://github.com/eraseK/3nd-project/assets/116993656/4577e807-817f-4c4c-b890-06c22ef7c8c6)
 
  
