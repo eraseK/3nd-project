@@ -1,7 +1,5 @@
 # 3nd-TeamProject
 
-![image](https://github.com/eraseK/3nd-project/assets/116993656/2ed84b02-cca8-416e-b94f-bd320c657be9)
-
 ## 주제 및 선정이유
   군중 또는 다수를 의미하는 CROWD + 자금을 의미하는 FUNDING
   - 단순히 물건을 사고 파는 쇼핑몰에 그치는 것이 아니라 개인의 투자와 소비 트렌드 파악 및 반영
